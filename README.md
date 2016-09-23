@@ -1,2 +1,4 @@
 # hello-world
-In thebeginning there was no code
+In the beginning there was no code
+Soon there will be lots of code
+spaghetti perhaps, but code all the same
